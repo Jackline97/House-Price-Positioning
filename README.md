@@ -1,4 +1,4 @@
-# CSI5155-Exploration-Research-on-House-Price-Positioning-in-Beijing-associated-with-Geographical-and-
+# Exploration-Research-on-House-Price-Positioning-in-Beijing-associated-with-Geographical-and-
 CSI 5155 project
 
 All copy rights go to Xuanyu Su and Yansong Li.
